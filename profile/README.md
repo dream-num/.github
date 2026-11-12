@@ -25,13 +25,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Sheets</h3>
       <a href="https://univer.ai/demo/spreadsheets"><img src="https://raw.githubusercontent.com/dream-num/univer/9897a430c33e64d01561a5e07e132991896b7006/docs/img/readme/cards/sheets.webp" alt="Sheets demo showing a formatted sales workbook" width="100%" /></a>
       <p>Spreadsheets with formulas, formatting, filters, charts, and pivot tables.</p>
       <p><a href="https://docs.univer.ai/guides/sheets">Sheets guide</a> · <a href="https://univer.ai/demo/spreadsheets">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Docs</h3>
       <a href="https://univer.ai/demo/docs"><img src="https://raw.githubusercontent.com/dream-num/univer/9897a430c33e64d01561a5e07e132991896b7006/docs/img/readme/cards/docs.webp" alt="Docs demo showing an editable rich-text document" width="100%" /></a>
       <p>Rich-text documents with page layouts, tables, images, headers, and footers.</p>
       <p><a href="https://docs.univer.ai/guides/docs">Docs guide</a> · <a href="https://univer.ai/demo/docs">Live demo</a></p>
@@ -39,13 +37,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Slides</h3>
       <a href="https://univer.ai/demo/slides"><img src="https://raw.githubusercontent.com/dream-num/univer/9897a430c33e64d01561a5e07e132991896b7006/docs/img/readme/cards/slides.webp" alt="Slides demo showing a presentation with editable charts and text" width="100%" /></a>
       <p>Presentations with editable text, shapes, charts, themes, and slide playback.</p>
       <p><a href="https://docs.univer.ai/guides/slides">Slides guide</a> · <a href="https://univer.ai/demo/slides">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Bases</h3>
       <a href="https://univer.ai/demo/relational-tables"><img src="https://raw.githubusercontent.com/dream-num/univer/9897a430c33e64d01561a5e07e132991896b7006/docs/img/readme/cards/relational-tables.webp" alt="Bases demo showing relational records in multiple views" width="100%" /></a>
       <p>Relational tables with typed fields, linked records, formulas, and multiple views.</p>
       <p><a href="https://docs.univer.ai/guides/bases">Bases guide</a> · <a href="https://univer.ai/demo/relational-tables">Live demo</a></p>
@@ -53,13 +49,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Boards</h3>
       <a href="https://univer.ai/demo/canvases"><img src="https://raw.githubusercontent.com/dream-num/univer/9897a430c33e64d01561a5e07e132991896b7006/docs/img/readme/cards/canvases.webp" alt="Boards demo showing connected content on a visual canvas" width="100%" /></a>
       <p>Free-form canvases for whiteboards, diagrams, shapes, connectors, and mind maps.</p>
       <p><a href="https://docs.univer.ai/guides/boards">Boards guide</a> · <a href="https://univer.ai/demo/canvases">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>PDFs</h3>
       <a href="https://univer.ai/demo/pdf"><img src="https://raw.githubusercontent.com/dream-num/univer/9897a430c33e64d01561a5e07e132991896b7006/docs/img/readme/cards/pdf.webp" alt="PDFs demo showing a document in the PDF editor" width="100%" /></a>
       <p>PDF viewing and editing with page operations, annotations, export, and printing.</p>
       <p><a href="https://docs.univer.ai/guides/pdfs">PDFs guide</a> · <a href="https://univer.ai/demo/pdf">Live demo</a></p>
